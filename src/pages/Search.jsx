@@ -46,7 +46,6 @@ const Search = () => {
         setLoading(false);
         return;
       }
-      console.log(searchQuery,"useEffect")
 
 
       if (data.success) {
